@@ -43,3 +43,4 @@ Temporary Items
 .apdisk
 homework_in/*
 .ipynb_checkpoints/*
+/homework/.ipynb_checkpoints/*
